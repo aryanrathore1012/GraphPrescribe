@@ -120,7 +120,7 @@ Also known as ***"Cost-effective Digital Prescription using Pharmaceutical Knowl
 
 * Graph Construction: Construct edge collections and upload the remaining dataset, organizing them as edges in the knowledge graph.
 
-![image](https://github.com/aryanrathore1012/calorie_tracker_ml/assets/91218998/eb3bd0bd-9240-4585-b209-0fa7d10a8ac9)
+![image](https://github.com/aryanrathore1012/GraphPrescribe/assets/91218998/c35340d3-5a3b-4b60-a068-f08fe36d5e67)
 
 ![image](https://github.com/aryanrathore1012/calorie_tracker_ml/assets/91218998/cde73d31-7a61-4c2f-8e89-18e0778ca52b)
 
