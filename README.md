@@ -11,7 +11,7 @@ Also known as ***"Cost-effective Digital Prescription using Pharmaceutical Knowl
 
 ## 🔬 Research article
 
-* Our work has been successfully been accepted and published on ***Asian Journal of Research in Computer Science*** and ***Research Gate****
+* Our work has been successfully been accepted and published in ***Asian Journal of Research in Computer Science***
 * A PDF of the published paper has been attached on github and links are attached below
 * https://www.researchgate.net/publication/376431111_Cost-effective_Digital_Prescription_using_Pharmaceutical_Knowledge_Graph
 * https://journalajrcos.com/index.php/AJRCOS/article/view/395 
@@ -34,8 +34,9 @@ Also known as ***"Cost-effective Digital Prescription using Pharmaceutical Knowl
 
 ![image](https://github.com/aryanrathore1012/calorie_tracker_ml/assets/91218998/87b59583-07fe-4271-b56e-6bc713f9c8d3)
 
-* ***The original medicines was Rs.103 but GraphPrescribe found an alternative medicines named Ascoril LS Syrup which Rs.97 saving 6 Rs/-***
-![image](https://github.com/aryanrathore1012/calorie_tracker_ml/assets/91218998/e2d1af82-bc27-4612-9fbd-7e8dcf82b31d)
+***The original medicines was Rs.103 but GraphPrescribe found an alternative medicines named Ascoril LS Syrup which Rs.97 saving 6 Rs/-***
+
+![image](https://github.com/aryanrathore1012/GraphPrescribe/assets/91218998/a84adc4f-731c-43e0-926f-8de2d48aa0a5)
 
 * for Augmentin 625 Duo Tablet (original 452/- alternative 12/-)
 ![image](https://github.com/aryanrathore1012/calorie_tracker_ml/assets/91218998/ce01e53c-05d7-4fe1-990c-7c4c43eb8a2a)
