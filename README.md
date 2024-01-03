@@ -48,7 +48,7 @@ Also known as ***"Cost-effective Digital Prescription using Pharmaceutical Knowl
 
 ![image](https://github.com/aryanrathore1012/calorie_tracker_ml/assets/91218998/58560b57-0083-44d0-9b8d-7c795ebb0b67)
 
-## 💽prerequisites to understand the approach
+## 💽Prerequisites to understand the approach
 #### 💡 What are knowledge graphs and how to build them? 
 
 * The blog series attached is a 3-part series also made in our JIO internship. this will familiarize you with the concepts needed to understand the approach of this project.
